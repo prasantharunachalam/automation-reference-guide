@@ -1,9 +1,7 @@
 # Automation-manual
 
 ## Automation Tools and Technologies
-
 ## List of Tools
-
 ## Tool Selection
 
 # Web UI Automation
