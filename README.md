@@ -1,6 +1,6 @@
 # Automation-manual
 
-## Automation Tools and Technologies
+# Automation Tools and Technologies
 ## List of Tools
 ## Tool Selection
 
