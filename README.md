@@ -1,4 +1,4 @@
-# Automation-manual
+# Automation-Reference-Guide
 
 # Automation Tools and Technologies
 ## List of Tools
